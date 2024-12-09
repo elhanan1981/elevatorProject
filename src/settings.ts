@@ -11,4 +11,8 @@ export class Settings {
 
   static buttonPressed = 'green';
   static buttonUnPressed = 'black';
+
+  static amountBuildings = 20;
+  static amountElevators = 4;
+  static amountFloors = 30;
 }
